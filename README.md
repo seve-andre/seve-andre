@@ -1,9 +1,4 @@
-
-```bash
-  $ whoami
-  
-   
-  ```
+<a href="https://www.andreaseveri.dev"><img src="https://github.com/seve-andre/seve-andre/blob/main/banner.png" /></a>
 <h1>Get in touch with me</h1>
 <p align="left">
     <a href="https://www.instagram.com/seve_andre/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="28" /></a>
