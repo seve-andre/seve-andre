@@ -1,3 +1,7 @@
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=seve-andre&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seve-andre&theme=github_dark)](https://github.com/seve-andre/github-readme-stats)
+
 # Get in touch with me
 
 <a href="https://www.instagram.com/seve_andre/" target="_blank">
