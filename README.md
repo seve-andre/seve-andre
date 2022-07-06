@@ -31,7 +31,7 @@ mitch; software engineer; currently studying at uniBO
 
 ## Github Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seve-andre&hide_border=true&layout=compact&theme=github_dark" align="left" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seve-andre&hide_border=true&layout=compact&theme=github_dark" align="left" width="40%">
   <img src="https://github-readme-stats.vercel.app/api?username=seve-andre&show_icons=true&count_private=true&theme=github_dark&hide_border=true" align="center">
 </div>
 
