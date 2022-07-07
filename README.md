@@ -57,6 +57,8 @@ Each skill has a score (out of 5).
 - crypto programming (e.g. Solidity)
 - Blender
 - Unreal Engine game development
+- cybersecurity
+- compilers and language design
 
 ## :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
