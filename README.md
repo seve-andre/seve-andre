@@ -11,7 +11,7 @@ mitch; software engineer; currently studying at uniBO
 - 🌱 I’m currently learning Tensorflow and OpenCV
 
 
-- ⚡ Fun fact: I don't use Vim. I'm not crazy
+- ⚡ Fun fact: I use spaces over tabs
 
 ## Get in touch with me
 <div>
