@@ -55,7 +55,7 @@ Each skill has a score (out of 5).
 - Scala programming language
 - microservices: RabbitMQ, Kafka
 - crypto programming (e.g. Solidity)
-- Blender
+- Blender/ZBrush
 - Unreal Engine game development
 - cybersecurity
 - compilers and language design
