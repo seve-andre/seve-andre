@@ -59,6 +59,7 @@ Each skill has a score (out of 5).
 - Unreal Engine game development
 - cybersecurity
 - compilers and language design
+- ElectronJs desktop app development
 
 ## :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
