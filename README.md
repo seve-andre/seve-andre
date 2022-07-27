@@ -59,7 +59,13 @@ Each skill has a score (out of 5).
 - Unreal Engine game development
 - cybersecurity
 - compilers and language design
-- ElectronJs desktop app development
+- ElectronJs/Tauri desktop app development
+- beat making
+- djing
+- learn guitar/piano
+- oriental languages (chinese, japanese, korean)
+- After Effects
+- digital art
 
 ## :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
