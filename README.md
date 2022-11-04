@@ -5,10 +5,10 @@ $ whoami
 mitch; software engineer; currently studying at uniBO
 ```
 
-- 🔭 I’m currently working on [Java More](https://github.com/seve-andre/java-more)
+- 🔭 I’m currently finishing my studies
 
 
-- 🌱 I’m currently learning Tensorflow and OpenCV
+- 🌱 I’m currently learning Keras
 
 
 - ⚡ Fun fact: I use spaces over tabs
@@ -66,6 +66,7 @@ Each skill has a score (out of 5).
 - oriental languages (chinese, japanese, korean)
 - After Effects
 - digital art
+- own programming language (fast, Kotlin/Java/Scala syntax-like)
 
 ## :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
