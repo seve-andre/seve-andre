@@ -4,69 +4,33 @@ My full name is *Andrea Severi*, but my bash says:
 $ whoami
 mitch; software engineer; currently studying at uniBO
 ```
-
-- 🔭 I’m currently finishing my studies
-
-
-- 🌱 I’m currently learning Keras
-
-
-- ⚡ Fun fact: I use spaces over tabs
-
-## Get in touch with me
 <div>
-<a href="https://www.instagram.com/seve_andre/" target="_blank">
+<a href="https://www.instagram.com/seve_andre/">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="28">
 </a>
 &nbsp; <!--- hspace -->
-<a href="https://www.linkedin.com/in/andrea-severi/" target="_blank">
+<a href="https://www.linkedin.com/in/andrea-severi/">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="28">
 </a>
 &nbsp; <!--- hspace -->
-<a href="https://mail.google.com/mail/u/0/?tab=mm#inbox?compose=CllgCJvpbJhNfMfzbCjhjFgFjFVzQvTdNMbtzlsvsftGGbFDMrjdmgcMmgVjPhhZBcRKwQnnCHg" target="_blank">
+<a href="mailto:andrea.severi.dev@gmail.com">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="28">
 </a>
 </div>
 
+## My main interests
+- Software engineering
+- Android development
+- Full Stack Web development
+- Embedded & IoT development
 
-## Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seve-andre&hide_border=true&layout=compact&theme=github_dark" align="left" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api?username=seve-andre&show_icons=true&count_private=true&theme=github_dark&hide_border=true" align="center">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,py,rust,ts,vue)](https://skillicons.dev)
 
-## My Skill Set
-### What I learned so far
-Each skill has a score (out of 5).
-
-**Score**:
-- **1**: very basic knowledge
-- **2**: little knowledge
-- **3**: solid knowledge
-- **4**: advanced knowledge
-- **5**: master knowledge
-
-
-![Skills summary](skills.png)
-
-### What I wanna learn
-- Javascript frameworks (Angular, React, Vue.js, Node.js)
+## What I wanna learn
 - ethical hacking
-- Scala programming language
-- microservices: RabbitMQ, Kafka
-- crypto programming (e.g. Solidity)
-- Blender/ZBrush
-- Unreal Engine game development
-- cybersecurity
+- web3 programming
+- video game development
 - compilers and language design
-- ElectronJs/Tauri desktop app development
-- beat making
-- djing
-- learn guitar/piano
-- oriental languages (chinese, japanese, korean)
-- After Effects
-- digital art
-- own programming language (fast, Kotlin/Java/Scala syntax-like)
 
 ## :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
