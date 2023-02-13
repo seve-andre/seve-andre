@@ -33,8 +33,8 @@ mitch; software engineer; currently studying at uniBO
     <img src="./skills/dark/AndroidStudio.svg#gh-light-mode-only" alt="Android Studio" title="Android Studio" width="48" />
     <img src="./skills/light/Python.svg#gh-dark-mode-only" alt="Python" title="Python" width="48" />
     <img src="./skills/dark/Python.svg#gh-light-mode-only" alt="Python" title="Python" width="48" />
-    <img src="./skills/light/Rust.svg" alt="Rust" title="Rust" width="48" />
-    <img src="./skills/light/TypeScript.svg" alt="TypeScript" title="TypeScript" width="48" />
+    <img src="./skills/Rust.svg" alt="Rust" title="Rust" width="48" />
+    <img src="./skills/TypeScript.svg" alt="TypeScript" title="TypeScript" width="48" />
     <img src="./skills/light/Vue.svg#gh-dark-mode-only" alt="VueJS" title="VueJS" width="48" />
     <img src="./skills/dark/Vue.svg#gh-light-mode-only" alt="VueJS" title="VueJS" width="48" />
 </p>
