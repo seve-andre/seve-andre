@@ -5,17 +5,17 @@ $ whoami
 mitch; software engineer; currently studying at uniBO
 ```
 <div>
-<a href="https://www.instagram.com/seve_andre/">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="28">
-</a>
+    <a href="https://www.linkedin.com/in/andrea-severi/">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="28" />
+    </a>
 &nbsp; <!--- hspace -->
-<a href="https://www.linkedin.com/in/andrea-severi/">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="28">
-</a>
+    <a href="mailto:andrea.severi.dev@gmail.com">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="28" />
+    </a>
 &nbsp; <!--- hspace -->
-<a href="mailto:andrea.severi.dev@gmail.com">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="28">
-</a>
+    <a href="https://www.instagram.com/seve_andre/">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="28" />
+    </a>
 </div>
 
 ## My main interests
