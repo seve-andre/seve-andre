@@ -24,7 +24,7 @@ mitch; software engineer; currently studying at uniBO
 - Full Stack Web development
 - Embedded & IoT development
 
-<p float="left">
+<div float="left">
     <img src="./skills/light/Java.svg#gh-dark-mode-only" alt="Java" title="Java" width="48" />
     <img src="./skills/dark/Java.svg#gh-light-mode-only" alt="Java" title="Java" width="48" />
     <img src="./skills/light/Kotlin.svg#gh-dark-mode-only" alt="Kotlin" title="Kotlin" width="48" />
@@ -37,7 +37,7 @@ mitch; software engineer; currently studying at uniBO
     <img src="./skills/TypeScript.svg" alt="TypeScript" title="TypeScript" width="48" />
     <img src="./skills/light/Vue.svg#gh-dark-mode-only" alt="VueJS" title="VueJS" width="48" />
     <img src="./skills/dark/Vue.svg#gh-light-mode-only" alt="VueJS" title="VueJS" width="48" />
-</p>
+</div>
 
 
 ## What I wanna learn
