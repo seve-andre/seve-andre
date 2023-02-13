@@ -6,19 +6,19 @@ mitch; software engineer; currently studying at uniBO
 ```
 <div>
     <a href="https://www.linkedin.com/in/andrea-severi/">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="Andrea's Linkedin profile" title="Linkedin" width="42" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="Andrea's Linkedin profile" title="Linkedin" width="48" />
     </a>
 &nbsp; <!--- hspace -->
     <a href="mailto:andrea.severi.dev@gmail.com">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="Write an email to Andrea" title="Gmail" width="42" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="Write an email to Andrea" title="Gmail" width="48" />
     </a>
 &nbsp; <!--- hspace -->
     <a href="https://www.instagram.com/seve_andre/">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="42" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="48" />
     </a>
 &nbsp; <!--- hspace -->
     <a href="https://t.me/seve_andre">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" alt="Andrea's Telegram contact" title="Telegram" width="42" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" alt="Andrea's Telegram contact" title="Telegram" width="48" />
     </a>
 </div>
 
