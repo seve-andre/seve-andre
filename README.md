@@ -16,6 +16,10 @@ mitch; software engineer; currently studying at uniBO
     <a href="https://www.instagram.com/seve_andre/">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="42" />
     </a>
+&nbsp; <!--- hspace -->
+    <a href="https://t.me/seve_andre">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" alt="Andrea's Telegram contact" title="Telegram" width="42" />
+    </a>
 </div>
 
 ## My main interests
