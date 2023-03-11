@@ -13,12 +13,12 @@ mitch; software engineer; currently studying at uniBO
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="Write an email to Andrea" title="Gmail" width="48" />
     </a>
 &nbsp; <!--- hspace -->
-    <a href="https://www.instagram.com/seve_andre/">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="48" />
-    </a>
-&nbsp; <!--- hspace -->
     <a href="https://t.me/seve_andre">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" alt="Andrea's Telegram contact" title="Telegram" width="48" />
+    </a>
+&nbsp; <!--- hspace -->
+    <a href="https://www.instagram.com/seve_andre/">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="48" />
     </a>
 </div>
 
