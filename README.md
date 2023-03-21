@@ -47,6 +47,8 @@ mitch; software engineer; currently studying at uniBO
 &nbsp; <!--- hspace -->
     <img src="./icons/skills/light/Vue.svg#gh-dark-mode-only" alt="VueJS" title="VueJS" width="48" />
     <img src="./icons/skills/dark/Vue.svg#gh-light-mode-only" alt="VueJS" title="VueJS" width="48" />
+&nbsp; <!--- hspace -->
+    <img src="./icons/skills/Svelte.svg" alt="Svelte" title="Svelte" width="48" />
 </div>
 
 
