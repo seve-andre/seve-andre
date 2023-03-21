@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" aria-label="Rust"
+    role="img">
     <title>Rust</title>
     <rect width="256" height="256" fill="#E43717" rx="60" />
     <path fill="#fff"
