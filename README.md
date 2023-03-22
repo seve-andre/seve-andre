@@ -1,4 +1,4 @@
-## whoami
+# whoami
 My full name is *Andrea Severi*, but my bash says:
 ```bash
 $ whoami
@@ -22,7 +22,7 @@ mitch; software engineer; currently studying at uniBO
     </a>
 </div>
 
-## My main interests
+# My main interests
 - Software engineering
 - Android development
 - Full Stack Web development
