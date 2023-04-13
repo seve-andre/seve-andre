@@ -4,6 +4,8 @@ My full name is *Andrea Severi*, but my bash says:
 $ whoami
 mitch; software engineer; currently studying at uniBO
 ```
+- 💻 Checkout [my website](https://seve-andre.github.io/)
+- 📝 Read [my CV](https://github.com/seve-andre/curriculum-vitae/blob/main/severi-andrea-cv-en.pdf)
 <div>
     <a href="https://www.linkedin.com/in/andrea-severi/">
         <img src="./icons/social/linkedin.svg" alt="Andrea's Linkedin profile" title="Linkedin" width="48" />
