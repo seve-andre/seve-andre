@@ -22,11 +22,7 @@ mitch; software engineer; currently studying at uniBO
     </a>
 </div>
 
-# My main interests
-- Software engineering
-- Android development
-- Full Stack Web development
-- Embedded & IoT development
+## Languages and tools
 
 <div float="left">
     <img src="./icons/skills/light/Java.svg#gh-dark-mode-only" alt="Java" title="Java" width="48" />
@@ -52,12 +48,12 @@ mitch; software engineer; currently studying at uniBO
 </div>
 
 
-## What I wanna learn
+### What I wanna learn
 - ethical hacking
 - web3 programming
 - video game development
 - compilers and language design
 
-## :books: Programming books I've read
+### :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
 - [Head First Design Patterns 2nd edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
