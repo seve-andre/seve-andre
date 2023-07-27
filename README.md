@@ -59,3 +59,4 @@ mitch; software engineer; currently studying at UniBo
 ### :books: Programming books I've read
 - [Effective Java 3rd edition](https://www.oreilly.com/library/view/effective-java/9780134686097/)
 - [Head First Design Patterns 2nd edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.pearson.com/en-us/subject-catalog/p/clean-coder-the-a-code-of-conduct-for-professional-programmers/P200000009045)
