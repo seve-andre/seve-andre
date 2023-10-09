@@ -27,24 +27,16 @@ mitch; software engineer
 ## Languages and tools
 
 <div float="left">
-    <img src="./icons/skills/light/Java.svg#gh-dark-mode-only" alt="Java" title="Java" width="48" />
-    <img src="./icons/skills/dark/Java.svg#gh-light-mode-only" alt="Java" title="Java" width="48" />
-&nbsp; <!--- hspace -->
     <img src="./icons/skills/light/Kotlin.svg#gh-dark-mode-only" alt="Kotlin" title="Kotlin" width="48" />
     <img src="./icons/skills/dark/Kotlin.svg#gh-light-mode-only" alt="Kotlin" title="Kotlin" width="48" />
 &nbsp; <!--- hspace -->
     <img src="./icons/skills/light/AndroidStudio.svg#gh-dark-mode-only" alt="Android Studio" title="Android Studio" width="48" />
     <img src="./icons/skills/dark/AndroidStudio.svg#gh-light-mode-only" alt="Android Studio" title="Android Studio" width="48" />
 &nbsp; <!--- hspace -->
-    <img src="./icons/skills/light/Python.svg#gh-dark-mode-only" alt="Python" title="Python" width="48" />
-    <img src="./icons/skills/dark/Python.svg#gh-light-mode-only" alt="Python" title="Python" width="48" />
-&nbsp; <!--- hspace -->
-    <img src="./icons/skills/Rust.svg" alt="Rust" title="Rust" width="48" />
+<img src="./icons/skills/light/Java.svg#gh-dark-mode-only" alt="Java" title="Java" width="48" />
+    <img src="./icons/skills/dark/Java.svg#gh-light-mode-only" alt="Java" title="Java" width="48" />
 &nbsp; <!--- hspace -->
     <img src="./icons/skills/TypeScript.svg" alt="TypeScript" title="TypeScript" width="48" />
-&nbsp; <!--- hspace -->
-    <img src="./icons/skills/light/Vue.svg#gh-dark-mode-only" alt="VueJS" title="VueJS" width="48" />
-    <img src="./icons/skills/dark/Vue.svg#gh-light-mode-only" alt="VueJS" title="VueJS" width="48" />
 &nbsp; <!--- hspace -->
     <img src="./icons/skills/Svelte.svg" alt="Svelte" title="Svelte" width="48" />
 </div>
