@@ -2,7 +2,7 @@
 My full name is *Andrea Severi*, but my bash says:
 ```bash
 $ whoami
-mitch; android software engineer
+mitch; android developer
 ```
 - 💻 Checkout [my website](https://seve-andre.github.io/)
 - 📝 Read [my resume](https://github.com/seve-andre/resume/blob/main/severi-andrea-resume-en.pdf)
