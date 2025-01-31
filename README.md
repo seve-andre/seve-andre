@@ -18,10 +18,6 @@ mitch; android developer
     <a href="https://t.me/seve_andre">
         <img src="./icons/social/telegram.svg" alt="Andrea's Telegram contact" title="Telegram" width="48" />
     </a>
-&nbsp; <!--- hspace -->
-    <a href="https://www.instagram.com/seve_andre/">
-        <img src="./icons/social/instagram.svg" alt="Andrea's Instagram profile" title="Instagram" width="48" />
-    </a>
 </div>
 
 ## Languages and tools
